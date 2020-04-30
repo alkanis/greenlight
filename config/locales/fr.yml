@@ -407,7 +407,7 @@ fr:
     google: Google
     office365: Office 365
     twitter: Twitter
-    ldap: LDAP
+    ldap: PSIADE
   recaptcha:
     errors:
       recaptcha_unreachable: "Oups, nous n'avons pas réussi à valider votre réponse reCAPTCHA. Veuillez réessayer."
