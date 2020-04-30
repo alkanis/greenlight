@@ -358,7 +358,7 @@ fr:
       title: Inviter utilisateur
     login:
       or: ou
-      with: "Connexion via %{provider}"
+      with: "Connexion via PSIADE"
       forgot_password: "Mot de passe oublié ?"
     rename_recording:
     remove_shared:
@@ -407,7 +407,7 @@ fr:
     google: Google
     office365: Office 365
     twitter: Twitter
-    ldap: PSIADE
+    ldap: LDAP
   recaptcha:
     errors:
       recaptcha_unreachable: "Oups, nous n'avons pas réussi à valider votre réponse reCAPTCHA. Veuillez réessayer."
