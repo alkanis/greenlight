@@ -162,7 +162,7 @@ fr:
         username: Nom d'utilisateur
       title: Gérer les utilisateurs
   add_to_google_calendar: "Ajouter au calendrier Google"
-  bigbluebutton: BigBlueButton
+  bigbluebutton: BlueVisio PSIADE
   bigbluebutton_exception: "Oups, une erreur s'est produite lors du démarrage de la réunion !"
   cancel: Annuler
   cookies:
@@ -268,7 +268,7 @@ fr:
   language_default: Par défaut (langue du navigateur)
   ldap_error: Impossible de se connecter au serveur LDAP. Veuillez vérifier votre configuration LDAP dans le fichier env et vous assurer que votre serveur est en cours d'exécution.
   login: Connexion
-  login_title: Connexion avec votre compte
+  login_title: Bienvenue sur l'outil de visioconférence de PSIADE
   mailer:
     user:
       approve:
@@ -358,7 +358,7 @@ fr:
       title: Inviter utilisateur
     login:
       or: ou
-      with: "Connexion via PSIADE"
+      with: "Connexion via PSIADE.FR"
       forgot_password: "Mot de passe oublié ?"
     rename_recording:
     remove_shared:
